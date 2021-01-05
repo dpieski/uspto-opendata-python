@@ -8,7 +8,7 @@
     :target: https://github.com/ip-tools/uspto-opendata-python
 
 |
-
+    
 ##########################
 USPTO Open Data API client
 ##########################
